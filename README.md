@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ahalsey
-- 👀 I’m interested in open source software development
-- 🌱 I’m currently learning Kubernetes and Go
-- 💞️ I’m looking to collaborate on GNU/Linux projects
+- 👋 I’m @ahalsey
+- 👀 I am passionate about systems and software development.
+- 🌱 I’m currently taking courses at NC State to improve my skills.
+- 💾 Due to course policy restrictions, private repositories are available to share on a temporary basis upon request.
+- 💞️ I’m available to collaborate on open source projects
